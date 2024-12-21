@@ -1,7 +1,7 @@
 const { sumiAPICommand } = require('../utils/sumiAPI');
 
 module.exports = {
-  name: 'sumi',
+  name: 'xyro',
   description: 'Execute the Sumi command',
   author: 'Liane Cagara (liaspark)',
   async execute(senderId, args, pageAccessToken, sendMessage) {
